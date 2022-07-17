@@ -1,0 +1,2 @@
+# IOT_SMART_HOME
+Project IOT_SMART_HOME, IOT course HIT.
